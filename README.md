@@ -1,4 +1,6 @@
-![](https://github.com/PROJonYz/HighlyComplex/blob/main/ModpackLogo.png)
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/PROJonYz/HighlyComplex/blob/main/ModpackLogo.png)">
+</p>
 
 - HighlyComplex with over 200 of the best mods and their addons, offers an extensive, challenging and in-depth gameplay experience.
 
