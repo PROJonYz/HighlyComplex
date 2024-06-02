@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="370" height="220" src="https://i.postimg.cc/XYZkBryR/Modpack-Logo.png">
+  <img width="470" height="320" src="https://i.postimg.cc/XYZkBryR/Modpack-Logo.png">
 </p>
 
 - HighlyComplex with over 200 of the best mods and their addons, offers an extensive, challenging and in-depth gameplay experience.
