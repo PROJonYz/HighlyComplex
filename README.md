@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="370" height="220" src="https://i.postimg.cc/HnMGT5ZL/1.png" width="370" height="220">
+  <img width="740" height="440" src="https://i.postimg.cc/HnMGT5ZL/1.png">
 </p>
 
 - HighlyComplex with over 200 of the best mods and their addons, offers an extensive, challenging and in-depth gameplay experience.
