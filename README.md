@@ -1,4 +1,4 @@
-![]([http://url/to/img.png](https://github.com/PROJonYz/HighlyComplex/blob/main/ModpackLogo.png))
+![](https://github.com/PROJonYz/HighlyComplex/blob/main/ModpackLogo.png)
 
 - HighlyComplex with over 200 of the best mods and their addons, offers an extensive, challenging and in-depth gameplay experience.
 
